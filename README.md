@@ -1,6 +1,7 @@
 # PixelRing
 
 Author: Cory J. Engdahl
+
 License :GLGPL
 
 ## Description:
