@@ -1,8 +1,7 @@
 # PixelRing
 
-Author: Cory J. Engdahl
-
-License :GLGPL
+Author: Cory J. Engdahl  
+License: GLGPL
 
 ## Description:
 Arduino wrapper library for controlling circular arangements of Adafruit's NeoPixels.  This library
