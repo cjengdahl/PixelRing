@@ -1,0 +1,21 @@
+#######################################
+# Syntax Coloring Map For PixelRing
+####################################### 
+# Class
+#######################################
+
+PixelRing		KEYWORD1
+
+#######################################
+# Methods and Functions 
+#######################################	
+
+clearRing			KEYWORD2
+setRingColor		KEYWORD2
+setRingPixelColor	KEYWORD2
+shiftCW				KEYWORD2
+shiftCCW			KEYWORD2
+getRingSize			KEYWORD2
+getRingStart		KEYWORD2
+getRingEnd			KEYWORD2
+getRingPixelColor	KEYWORD2
